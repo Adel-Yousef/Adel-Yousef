@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I’m Adel Yousef — a Backend Developer who enjoys building scalable APIs, managing databases, and turning ideas into working features.<br>I specialize in Python, Django, PostgreSQL, and modern backend practices.<br>Always learning, always building.
+Hi, I’m Adel Yousef — a Backend Developer who enjoys building scalable APIs, managing databases, and turning ideas into working features.<br>I specialize in Python, Django, PostgreSQL, and modern backend practices.<br>
+- 🔭 Currently improving my backend development skills  
+- 🌱 Learning more about APIs & system design   
+
 
 
 ## 🌐 Socials:
